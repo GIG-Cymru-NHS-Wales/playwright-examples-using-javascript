@@ -1,0 +1,29 @@
+{
+  "name": "playwright-examples-using-javascript",
+  "version": "1.0.0",
+  "description": "Playwright examples using JavaScript",
+  "keywords": [
+    "demo",
+    "playwright",
+    "javascript",
+    "test"
+  ],
+  "homepage": "https://github.com/joelparkerhenderson/playwright-examples-using-javascript#readme",
+  "bugs": {
+    "url": "https://github.com/joelparkerhenderson/playwright-examples-using-javascript/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelparkerhenderson/playwright-examples-using-javascript.git"
+  },
+  "license": "GPL-2.0-or-later",
+  "author": "Joel Parker Henderson <joel@joelparkerhenderson.com>",
+  "type": "module",
+  "main": "src/demo.js",
+  "scripts": {
+    "test": "node src/demo.js"
+  },
+  "dependencies": {
+    "playwright": "^1.55.0"
+  }
+}
